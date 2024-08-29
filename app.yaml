@@ -1,0 +1,6 @@
+domains:
+- static-website-barankaraaslan.wasmer.app
+kind: wasmer.io/App.v0
+name: baran-static-website
+owner: baran
+package: .
